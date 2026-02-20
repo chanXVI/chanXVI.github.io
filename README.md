@@ -1,6 +1,8 @@
-layout: readMe
+---
+layout: page
 title: My ReadME
 date: 2026-02-20
+---
 
 #[MyRepo](chanXVI.github.io/
 
