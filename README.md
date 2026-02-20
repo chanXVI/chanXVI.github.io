@@ -1,4 +1,8 @@
-# chanXVI.github.io
+layout: readMe
+title: My ReadME
+date: 2026-02-20
+
+#[MyRepo](chanXVI.github.io/
 
 blogging about sense and nonsense
 
