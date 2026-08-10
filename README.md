@@ -28,6 +28,30 @@ Run the local Jekyll server:
 bundle exec jekyll serve
 ```
 
+For automatic browser refresh while editing posts, pages, or styles, run:
+
+```bash
+bundle exec jekyll serve --livereload
+```
+
+Optional shell shortcut for `~/.zshrc`:
+
+```zsh
+alias js='bundle exec jekyll serve --livereload'
+```
+
+After adding the alias, reload your shell config:
+
+```bash
+source ~/.zshrc
+```
+
+Then run the shortcut from this project directory:
+
+```bash
+js
+```
+
 Then open the local URL printed by Jekyll, usually:
 
 ```text
