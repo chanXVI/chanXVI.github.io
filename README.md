@@ -1,14 +1,39 @@
----
-layout: page
-title: My ReadME
-date: 2026-02-20
----
+# sanilBlog
 
-#[MyRepo](chanXVI.github.io/)
+Jekyll blog boilerplate for a GitHub Pages site.
 
-blogging about sense and nonsense
+## Current status
 
-## UNDER CONSTRUCTION
+This repo is using the default Jekyll scaffold with the `minima` theme:
 
-- lets learn about docker containers (making of it?)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8fi7uSYlOdc?si=p6JTbquV1C_J9Kbk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+- `_config.yml` contains the site settings and enables `jekyll-feed`
+- `index.markdown` uses the default home layout
+- `about.markdown` is the starter About page
+- `_posts/` contains the starter welcome post
+- `.github/workflows/jekyll-gh-pages.yml` builds and deploys the site with GitHub Pages Actions
+
+The generated `_site/` output and local Bundler files are ignored by Git.
+
+## Local development
+
+Install the Ruby gems:
+
+```bash
+bundle install
+```
+
+Run the local Jekyll server:
+
+```bash
+bundle exec jekyll serve
+```
+
+Then open the local URL printed by Jekyll, usually:
+
+```text
+http://127.0.0.1:4000/
+```
+
+## Deployment
+
+Push changes to `main`. The GitHub Actions workflow builds the Jekyll site and deploys the generated artifact to GitHub Pages.
