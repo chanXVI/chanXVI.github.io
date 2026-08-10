@@ -20,6 +20,6 @@ For now.
 {% highlight ruby %}
 Entering the shadow of valley of death, somethink like that
 {% endhighlight %}
-[UFC fighter Bryce Mitchell][ufc-fighter-bryce-mitchell] - some embedded vlog... I think he got knocked out
+[UFC fighter Bryce Mitchell][ufc-fighter-bryce-mitchell] - some embedded vlog... Exiting fight from what I can recall. I think he got knocked out
 
 [ufc-fighter-bryce-mitchell]: https://youtu.be/5Q45jQIOT_k?t=9
