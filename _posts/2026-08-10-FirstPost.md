@@ -5,7 +5,7 @@ date: 2026-08-10 15:05:00 -0500
 categories: MISC
 ---
 
-You’ll not find gramatically/spelled correct content moving forward. This is a result of valuing ideas over presentation, along with failing to give effort in english courses from 6-12th grade - College - Professional Endeavors.
+You’ll not find grammatically/spelled correct content moving forward. This is a result of valuing ideas over presentation, along with failing to give effort in english courses from 6-12th grade - College - Professional Endeavors.
 
 Is there regret? Yes, being unable to paint ideas to fellow human counterparts, via the medium of Speaking and Writing is an ongoing thorn in my day to day outing.
 
