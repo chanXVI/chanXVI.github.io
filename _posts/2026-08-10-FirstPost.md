@@ -18,8 +18,10 @@ With no concrete roadmap in sight, which Route to TAKE? I will find out soon eno
 For now.
 
 {% highlight ruby %}
-Entering the shadow of valley of death, somethink like that
+Entering the shadow of valley of death.. yada yada
 {% endhighlight %}
-[UFC fighter Bryce Mitchell][ufc-fighter-bryce-mitchell] - some embedded vlog... Exiting fight from what I can recall. I think he got knocked out
 
-[ufc-fighter-bryce-mitchell]: https://youtu.be/5Q45jQIOT_k?t=9
+- quoted by [UFC fighter Bryce Mitchell][ufc-fighter-bryce-mitchell] (probably a bible verse of something)
+  - some embedded vlog... Exiting fight from what I recall. Unfortunately, I think he got knocked out
+
+[ufc-fighter-bryce-mitchell]: https://youtu.be/_F2472PShU8?list=PL9m3-_Hv6qNjrfVX19IVovxHz09GTl4zp&t=545
