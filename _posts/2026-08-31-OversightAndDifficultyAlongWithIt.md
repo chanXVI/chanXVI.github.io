@@ -14,6 +14,8 @@ I have since begun my [tutoral island][tutoral-island] journey in understanding 
 The bulk of the motivation stemmed from an inability to create through or, break down the ambiguity in using the construct of a workplace/team/sports/(insert any framework to view through the lens of), to understand LLM capabilities. Going over an article last week, from OpenAI titled [Symphony][Symphony], it addresses many of the
 concerns, while forming a base framework which I am able to hopefully follow.
 
+Side Note: I look forward to providing an update on this journey. 1 week, 1 month, 1 year from now? At this point I have taken the identity of a slow learner, and enjoy the perks that come alongside it. My theory is learning new vocabs', or grammar patterns (albeit at sporadic rate), should increase yield in in Consuming, Understanding and Relaying out new Ideas. Let's hope that is the case.
+
 [tutoral-island]: https://runescape.wiki/w/Tutorial_Island#:~:text=Tutorial%20Island%20is,Cursed%20Tides.
 [harness-engineering]: https://openai.com/index/harness-engineering/
 [Symphony]: https://openai.com/index/open-source-codex-orchestration-symphony/
